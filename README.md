@@ -1,4 +1,4 @@
-krainian morphology toolkit
+Ukrainian morphology toolkit
 
 A powerful Python tool for inflecting Ukrainian names, job titles, and sentences. Built on `pymorphy3`, this toolkit adds a layer of advanced rules and heuristics specifically tailored for the complexities of the Ukrainian language.
 
