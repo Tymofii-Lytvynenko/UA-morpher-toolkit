@@ -41,6 +41,7 @@ jobs:
         run: >-
           python -m nuitka
           --mode=standalone
+          --assume-yes-for-downloads
           --enable-plugin=pyside6
           --include-package-data=pymorphy3_dicts_uk
           --windows-console-mode=disable
