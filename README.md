@@ -1,3 +1,9 @@
+# Графічний інтерфейс для масового відмінювання ПІБ
+
+Для масової роботи з Excel та портативного запуску Windows: [інструкція GUI](GUI.md). Вставляйте один або три стовпці, вибирайте відмінок, копіюйте результат без зміни порядку.
+
+---
+
 # Ukrainian Morphology Toolkit
 
 A powerful Python tool for inflecting Ukrainian names, job titles, and sentences. Built on `pymorphy3`, this toolkit adds a layer of advanced rules and heuristics specifically tailored for the complexities of the Ukrainian language.

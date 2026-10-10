@@ -196,7 +196,7 @@ class NameMorpher:
             return ''
 
         # The cache key must be unique for the word, case, and gender context.
-        cache_key = f"{name_part.lower()}_{case}_{is_feminine}"
+        cache_key = f"{name_part}_{case}_{is_feminine}"
         if cache_key in self._case_cache:
             return self._case_cache[cache_key]
 

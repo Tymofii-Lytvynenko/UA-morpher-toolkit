@@ -1,0 +1,3 @@
+-r requirements.txt
+pymorphy3-dicts-uk>=2.4.1.1.1663094765
+PySide6>=6.7,<7
